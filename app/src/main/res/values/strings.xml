@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_readCard">读卡</string>
+    <string name="error_security">错误权限</string>
+    <string name="error_unknown">错误未知</string>
+    <string name="error_configuration">错误配置</string>
+</resources>
